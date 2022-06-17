@@ -1,7 +1,6 @@
 import React from "react";
 import TableBody from "../tableBody";
 import products from "../products/products.json";
-//import Modal from "../modal/Modal";
 
 class Table extends React.Component {
   constructor(props) {
